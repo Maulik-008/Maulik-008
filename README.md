@@ -67,22 +67,14 @@ That experience spans SaaS platforms, healthcare technology, telemedicine, patie
 
 <br>
 
+
 ## GitHub Activity
-
+ 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Maulik-008&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maulik-008&theme=radical&hide_border=true&background=0D1117" width="49%" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Maulik-008&show_icons=true&theme=dark" />
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maulik-008&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=Maulik-008&theme=radical&no-frame=true&row=1&column=4&margin-w=8" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maulik-008&theme=dark" />
 </div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maulik-008&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" width="98%" />
-</div>
-
 <br>
 
 ## Let's Work Together
