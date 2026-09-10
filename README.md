@@ -4,7 +4,6 @@
 
 <p>
 <a href="https://www.maulik.dev"><img src="https://img.shields.io/badge/Portfolio-maulik.dev-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/maulik-joshi-58b62917a/"><img src="https://img.shields.io/badge/LinkedIn-Maulik%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mb.dev08@gmail.com"><img src="https://img.shields.io/badge/Email-mb.dev08%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://x.com/Maulik_008"><img src="https://img.shields.io/badge/X-@Maulik__008-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
