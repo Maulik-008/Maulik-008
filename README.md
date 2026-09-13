@@ -83,7 +83,6 @@ I help businesses put AI to work: automating workflows, building AI-powered prod
 <div align="center">
 
 <a href="https://www.maulik.dev/contact"><img src="https://img.shields.io/badge/-Start%20a%20Project-0F172A?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/maulik-joshi-58b62917a/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mb.dev08@gmail.com"><img src="https://img.shields.io/badge/-mb.dev08@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://x.com/Maulik_008"><img src="https://img.shields.io/badge/-@Maulik__008-000000?style=flat-square&logo=x&logoColor=white" /></a>
 
